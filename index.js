@@ -130,4 +130,4 @@ class LinkedList{
 //     list.insertAt("chibuzo", 1);
 //     list.removeAt(2);
 
-// console.log(list.toString())
+// console.log(list.toString()) // (john) -> (chibuzo) -> (ebuka) -> (chinaza) -> null
